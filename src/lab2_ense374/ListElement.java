@@ -12,10 +12,9 @@ public class ListElement {
 	/**
 	 * @param args
 	 */
-	private ListElement next ; 
-	private ListElement previous ; 
-	private int data ;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-	
+	}
 
 }
