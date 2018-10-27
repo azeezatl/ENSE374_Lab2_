@@ -12,6 +12,16 @@ public class LinkedList {
 	/**
 	 * @param args
 	 */
+	
+
+	 public void addElement(ListElement le) {
+		 
+	 }
+	 
+	 public void getElement() {
+		 
+	 }
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
